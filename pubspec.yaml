@@ -1,6 +1,7 @@
 name: flutter_version_checker
 description: A flutter package to check if your app is running the latest version in Apple iOS App Store and Google Play Store.
-
+author: Michael John Peña <mjtpena@outlook.com>
+homepage: https://github.com/mjtpena/flutter_version_checker
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
